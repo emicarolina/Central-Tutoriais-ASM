@@ -1,13 +1,1016 @@
 {
   "tutoriais": [
     {
+      "id": 1,
+      "titulo": "Resumo",
+      "categoria": "Home",
+      "subcategoria": "HOME",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["resumo", "painel inicial", "vendas", "home"]
+    },
+    {
+      "id": 2,
+      "titulo": "Sincronização pendente",
+      "categoria": "Home",
+      "subcategoria": "PEDIDOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["sincronização", "pendente"]
+    },
+    {
+      "id": 3,
+      "titulo": "Oportunidades de produtos",
+      "categoria": "Home",
+      "subcategoria": "PRODUTOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["oportunidades", "produtos", "produto"]
+    },
+    {
+      "id": 4,
+      "titulo": "Vendas",
+      "categoria": "Home",
+      "subcategoria": "VENDAS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["vendas", "venda"]
+    },
+    {
+      "id": 5,
+      "titulo": "Tempo Real",
+      "categoria": "Home",
+      "subcategoria": "VENDAS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["tempo real", "vendas", "venda"]
+    },
+    {
+      "id": 6,
+      "titulo": "Acompanhamento",
+      "categoria": "Home",
+      "subcategoria": "COMUNICAÇÃO",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["acompanhamento", "comunicação"]
+    },
+    {
+      "id": 7,
+      "titulo": "Relatórios",
+      "categoria": "Home",
+      "subcategoria": "COMUNICAÇÃO",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["relatórios", "relatório", "comunicação"]
+    },
+    {
+      "id": 8,
+      "titulo": "Status",
+      "categoria": "Home",
+      "subcategoria": "TI",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["status", "ti"]
+    },
+    {
       "id": 9,
       "titulo": "Listagem",
       "categoria": "Pedidos",
-      "subcategoria": "Pedidos",
+      "subcategoria": "PEDIDOS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1htIqYAZ1UZ_xBn-IcYFbNeU5OJ5o8uderjIJA8EiMQs/edit?tab=t.0",
-      "tags": ["pedidos", "listagem", "lista de pedidos"]
+      "tags": ["lista", "listagem", "pedido", "pedidos"]
+    },
+    {
+      "id": 10,
+      "titulo": "Verificação",
+      "categoria": "Pedidos",
+      "subcategoria": "PEDIDOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["verificação", "pedido", "pedidos"]
+    },
+    {
+      "id": 11,
+      "titulo": "Listagem",
+      "categoria": "Pedidos",
+      "subcategoria": "PAGAMENTOS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1qQDh9o3v0GwyJkr9QeZtlzWOW5usUCvvizRheuril1U/edit?tab=t.0",
+      "tags": [
+        "pagamento",
+        "pagamentos",
+        "lista",
+        "listagem",
+        "pedido",
+        "pedidos"
+      ]
+    },
+    {
+      "id": 12,
+      "titulo": "Perfil",
+      "categoria": "Pedidos",
+      "subcategoria": "CLIENTES",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1sk-6c4a_zNILuOm04QWQM2NMTvOy8aEkFoDzcds9iP8/edit?tab=t.0",
+      "tags": ["perfil", "cliente", "clientes", "pedido", "pedidos"]
+    },
+    {
+      "id": 13,
+      "titulo": "Listagem",
+      "categoria": "Pedidos",
+      "subcategoria": "CLIENTES",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1VV-tpxThe5psDJUPy69vrJcCtPO5lJ_m7-SYlJHHyQU/edit?tab=t.0",
+      "tags": ["lista", "listagem", "cliente", "clientes"]
+    },
+    {
+      "id": 14,
+      "titulo": "Afiliados",
+      "categoria": "Pedidos",
+      "subcategoria": "CLIENTES",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1tb38CFF6maC6TwcK5bigMpXlCcOrMXJiMXl8uCWBQ5w/edit?tab=t.0",
+      "tags": ["afiliado", "afiliados", "cliente", "clientes"]
+    },
+    {
+      "id": 15,
+      "titulo": "Desejos",
+      "categoria": "Pedidos",
+      "subcategoria": "CLIENTES",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "desejo",
+        "desejos",
+        "favorito",
+        "favoritos",
+        "cliente",
+        "clientes"
+      ]
+    },
+    {
+      "id": 16,
+      "titulo": "Listagem",
+      "categoria": "Pedidos",
+      "subcategoria": "FATURAS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["fatura", "faturas", "lista", "listagem"]
+    },
+    {
+      "id": 17,
+      "titulo": "Aprovações",
+      "categoria": "Pedidos",
+      "subcategoria": "PARCERIAS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1PmJ93clUzFDJftJwVrjosuCJbMr5eC_0mKMpSnRgKA0/edit?tab=t.0",
+      "tags": ["aprovação", "aprovações", "parceria", "parcerias"]
+    },
+    {
+      "id": 18,
+      "titulo": "Abandono",
+      "categoria": "Pedidos",
+      "subcategoria": "CARRINHO",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1cVOGqBxbwhU7ZH4TzzQHtcmg1KBvP-twT3iP6-Eop-s/edit?tab=t.0",
+      "tags": ["abandono", "abandonado", "carrinho", "carrinhos"]
+    },
+    {
+      "id": 19,
+      "titulo": "Dashboard",
+      "categoria": "Pedidos",
+      "subcategoria": "ANTIFRAUDE",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["antifraude", "anti-fraude", "dashboard"]
+    },
+    {
+      "id": 20,
+      "titulo": "Estornados",
+      "categoria": "Pedidos",
+      "subcategoria": "ANTIFRAUDE",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "estorno",
+        "estornado",
+        "estornados",
+        "antifraude",
+        "anti-fraude"
+      ]
+    },
+    {
+      "id": 21,
+      "titulo": "Listagem",
+      "categoria": "Produtos",
+      "subcategoria": "PRODUTOS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1IWsfznmz44_KHkY5NwETNI0IcRf0CnCjyjER_8G1sA8/edit?tab=t.0",
+      "tags": ["lista", "listagem", "produto", "produtos"]
+    },
+    {
+      "id": 22,
+      "titulo": "Análise",
+      "categoria": "Produtos",
+      "subcategoria": "PRODUTOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["análise", "produto", "produtos"]
+    },
+    {
+      "id": 23,
+      "titulo": "Lista de desejos",
+      "categoria": "Produtos",
+      "subcategoria": "PRODUTOS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1iYwFJd-MVMn4IQZXH8Rw9fli4tEPOWztxo6R27VcOq4/edit?tab=t.0",
+      "tags": [
+        "desejo",
+        "desejos",
+        "favorito",
+        "favoritos",
+        "cliente",
+        "clientes",
+        "lista",
+        "listagem"
+      ]
+    },
+    {
+      "id": 24,
+      "titulo": "Coleções",
+      "categoria": "Produtos",
+      "subcategoria": "PRODUTOS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1ta1uUGcCC_a1vkLfwmVRLG2ZZtvFyithijfOZzo1bSQ/edit?tab=t.0",
+      "tags": ["coleção", "coleções"]
+    },
+    {
+      "id": 25,
+      "titulo": "Cores",
+      "categoria": "Produtos",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1iM_47gPTl6_Pzh8Ljnrpcr74rsVGfUm9tmXTAdL42LI/edit?tab=t.0",
+      "tags": ["cor", "cores", "cadastro", "cadastrar"]
+    },
+    {
+      "id": 26,
+      "titulo": "Modelos",
+      "categoria": "Produtos",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1woVTdMLIz4xUar5NgWdUJWFkZCxUpVq6FNiIGOTuLJ8/edit?tab=t.0",
+      "tags": ["modelos", "modelos", "cadastro", "cadastrar"]
+    },
+    {
+      "id": 27,
+      "titulo": "Medidas",
+      "categoria": "Produtos",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1MQn9pVmtpuNTAH7nuXLjtr8NYU0BiPRfOTidn37x4hE/edit?tab=t.0",
+      "tags": ["medida", "medidas", "cadastro", "cadastrar"]
+    },
+    {
+      "id": 28,
+      "titulo": "Períodos",
+      "categoria": "Produtos",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1CnqAEucBIobfk9KzcW7IP2l8GQ45D_t86mMhglCqLMY/edit?tab=t.0",
+      "tags": ["período", "períodos", "cadastro", "cadastrar"]
+    },
+    {
+      "id": 29,
+      "titulo": "Incompletos",
+      "categoria": "Produtos",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1Zbpmt5MoWlzKWM6mIkvNzxOZi5CpbdgY1QY1T4YW3hg/edit?tab=t.0",
+      "tags": ["incompleto", "incompletos", "cadastro", "cadastros"]
+    },
+    {
+      "id": 30,
+      "titulo": "Listas de Preço",
+      "categoria": "Produtos",
+      "subcategoria": "PREÇOS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1NVRatWI1L4kBHdTsr2VsG81gMDS77YBCnjCvHklYRx8/edit?tab=t.0",
+      "tags": ["lista", "listagem", "preço", "preços"]
+    },
+    {
+      "id": 31,
+      "titulo": "Gerenciamento",
+      "categoria": "Produtos",
+      "subcategoria": "ESTOQUE",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1_cq1uRH7LGw3D-OSYjrAP5oRCnr_lRG8OP-M8muT6cI/edit?tab=t.0",
+      "tags": ["gerenciamento", "gerenciar", "estoque"]
+    },
+    {
+      "id": 32,
+      "titulo": "Avise-me",
+      "categoria": "Produtos",
+      "subcategoria": "ESTOQUE",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1ZnwX8f7tc4OmDrpTAvlKfzEWmpiACqlhTEoOz7Jk5M0/edit?tab=t.0",
+      "tags": ["avise", "avise-me"]
+    },
+    {
+      "id": 33,
+      "titulo": "Enviados avise-me",
+      "categoria": "Produtos",
+      "subcategoria": "ESTOQUE",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1RheIzWgCgU9Iwh2icTEnsVBh1SpS9glaCPDZQZuhmoE/edit?tab=t.0",
+      "tags": ["enviados", "avise", "avise-me"]
+    },
+    {
+      "id": 34,
+      "titulo": "Listagem",
+      "categoria": "Produtos",
+      "subcategoria": "COMENTÁRIOS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1291wnLQ5L9jqX8Tg5NaCNtlE0XmvmxNfFfbZNI9__KM/edit?tab=t.0",
+      "tags": ["lista", "listagem", "comentário", "comentários"]
+    },
+    {
+      "id": 35,
+      "titulo": "Dashboard",
+      "categoria": "Produtos",
+      "subcategoria": "KITS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1tIxxy3rmW0CO8MfO3hSkNz25rAmpWeV9FBuT9A2MIJU/edit?tab=t.0",
+      "tags": ["kit", "kits", "dashboard"]
+    },
+    {
+      "id": 36,
+      "titulo": "Listagem",
+      "categoria": "Promoções",
+      "subcategoria": "PROMOÇÕES",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1Udx-lwPssMtj0-kdchmM--ShccTkGAAy_9UPyHAf5zw/edit?tab=t.0",
+      "tags": ["lista", "listagem", "promoção", "promoções"]
+    },
+    {
+      "id": 37,
+      "titulo": "Listagem",
+      "categoria": "Promoções",
+      "subcategoria": "GIFT CARDS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1mH9YSc0N1ROKb38fuEVxy3DSBU1YD4JV6g-4j7w2mM4/edit?tab=t.0",
+      "tags": [
+        "lista",
+        "listagem",
+        "gift",
+        "gift card",
+        "gift cards",
+        "promoção",
+        "promoções"
+      ]
+    },
+    {
+      "id": 38,
+      "titulo": "Acompanhamento",
+      "categoria": "Promoções",
+      "subcategoria": "GIFT CARDS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1tcBUtv5mlAyWQZQJntcFHP63B4v0RQji-FBTrlBAwbY/edit?tab=t.0",
+      "tags": [
+        "acompanhamento",
+        "gift",
+        "gift card",
+        "gift cards",
+        "promoção",
+        "promoções"
+      ]
+    },
+    {
+      "id": 39,
+      "titulo": "Resumo",
+      "categoria": "Promoções",
+      "subcategoria": "INDIQUE E GANHE",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1EU6Nxir9k5KT4qFMW6ucwSQuNYbLpNMu1Qv3Oj4XrkY/edit?tab=t.0",
+      "tags": ["indique", "indique e ganhe", "promoção", "promoções"]
+    },
+    {
+      "id": 40,
+      "titulo": "Listagem",
+      "categoria": "Promoções",
+      "subcategoria": "AFILIADOS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1tb38CFF6maC6TwcK5bigMpXlCcOrMXJiMXl8uCWBQ5w/edit?tab=t.0",
+      "tags": ["lista", "listagem", "afiliado", "afiliados"]
+    },
+    {
+      "id": 41,
+      "titulo": "Configuração",
+      "categoria": "Promoções",
+      "subcategoria": "AFILIADOS",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1fKL61IO0c-eLY_FswvwbpO5B8YSISYbqeBCrzWFJxHg/edit?tab=t.0",
+      "tags": ["configuração", "configurações", "afiliado", "afiliados"]
+    },
+    {
+      "id": 42,
+      "titulo": "Configuração",
+      "categoria": "Promoções",
+      "subcategoria": "CONFIGURAÇÕES",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/191QzNn6577ynw4U7XFStRXH2D7llYm5hM8PdXcTOQDU/edit?tab=t.0",
+      "tags": ["configuração", "configurações", "promoção", "promoções"]
+    },
+    {
+      "id": 43,
+      "titulo": "Reativação",
+      "categoria": "Promoções",
+      "subcategoria": "CASHBACK",
+      "secao": "Plataforma",
+      "link": "https://docs.google.com/document/d/1jc4auHGzKgbstHEO7ZDp8SaY5fmkXq2u6jdUqh1tV3c/edit?tab=t.0",
+      "tags": ["reativação", "reativar", "cashback", "cashbacks"]
+    },
+    {
+      "id": 44,
+      "titulo": "Conversas",
+      "categoria": "Atendimento",
+      "subcategoria": "CHAT",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["chat", "conversa", "conversas", "atendimento"]
+    },
+    {
+      "id": 45,
+      "titulo": "Métricas",
+      "categoria": "Atendimento",
+      "subcategoria": "CHAT",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["chat", "métrica", "métricas", "atendimento"]
+    },
+    {
+      "id": 46,
+      "titulo": "Listagem",
+      "categoria": "Atendimento",
+      "subcategoria": "PEDIDOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["pedido", "pedidos", "lista", "listagem", "atendimento"]
+    },
+    {
+      "id": 47,
+      "titulo": "Pendentes",
+      "categoria": "Atendimento",
+      "subcategoria": "ERROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["erro", "erros", "pendente", "pendentes", "atendimento"]
+    },
+    {
+      "id": 48,
+      "titulo": "Despacho",
+      "categoria": "Atendimento",
+      "subcategoria": "ERROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["despacho", "despachos", "erro", "erros", "atendimento"]
+    },
+    {
+      "id": 49,
+      "titulo": "Incompletos",
+      "categoria": "Atendimento",
+      "subcategoria": "ERROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["incompleto", "incompletos", "erro", "erros", "atendimento"]
+    },
+    {
+      "id": 50,
+      "titulo": "Envios",
+      "categoria": "Atendimento",
+      "subcategoria": "ENVIOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["enviado", "enviados", "envio", "envios", "atendimento"]
+    },
+    {
+      "id": 51,
+      "titulo": "Reverso",
+      "categoria": "Atendimento",
+      "subcategoria": "ENVIOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "reverso",
+        "enviado",
+        "enviados",
+        "envio",
+        "envios",
+        "atendimento"
+      ]
+    },
+    {
+      "id": 52,
+      "titulo": "Listagem",
+      "categoria": "Atendimento",
+      "subcategoria": "DEVOLUÇÕES",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["lista", "listagem", "devolução", "devoluções", "atendimento"]
+    },
+    {
+      "id": 53,
+      "titulo": "Listagem",
+      "categoria": "Atendimento",
+      "subcategoria": "CANCELAMENTOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "lista",
+        "listagem",
+        "cancelamento",
+        "cancelamentos",
+        "atendimento"
+      ]
+    },
+    {
+      "id": 54,
+      "titulo": "Listagem",
+      "categoria": "Atendimento",
+      "subcategoria": "CLIENTES",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["lista", "listagem", "cliente", "clientes", "atendimento"]
+    },
+    {
+      "id": 55,
+      "titulo": "Resumo",
+      "categoria": "Logística",
+      "subcategoria": "LOGÍSTICA",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["logística", "resumo"]
+    },
+    {
+      "id": 56,
+      "titulo": "Expedição",
+      "categoria": "Logística",
+      "subcategoria": "DASHBOARDS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["expedição", "dashboard", "logística"]
+    },
+    {
+      "id": 57,
+      "titulo": "Envios",
+      "categoria": "Logística",
+      "subcategoria": "DASHBOARDS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "enviado",
+        "enviados",
+        "envio",
+        "envios",
+        "dashboard",
+        "logística"
+      ]
+    },
+    {
+      "id": 58,
+      "titulo": "Reverso",
+      "categoria": "Logística",
+      "subcategoria": "DASHBOARDS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["reverso", "logística", "dashboard"]
+    },
+    {
+      "id": 59,
+      "titulo": "Conciliação",
+      "categoria": "Logística",
+      "subcategoria": "CONCILIAÇÃO",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["conciliação", "conciliações", "logística"]
+    },
+    {
+      "id": 60,
+      "titulo": "Listagem",
+      "categoria": "Logística",
+      "subcategoria": "RASTREAMENTO",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "rastrear",
+        "rastreio",
+        "rastreamento",
+        "lista",
+        "listagem",
+        "logística"
+      ]
+    },
+    {
+      "id": 61,
+      "titulo": "Simulação",
+      "categoria": "Logística",
+      "subcategoria": "SIMULAÇÃO",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["simulação", "simulações", "simular", "clientes", "logística"]
+    },
+    {
+      "id": 62,
+      "titulo": "Lote",
+      "categoria": "Logística",
+      "subcategoria": "SIMULAÇÃO",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["lote", "simulação", "simulações", "simular", "logística"]
+    },
+    {
+      "id": 63,
+      "titulo": "Envios",
+      "categoria": "Logística",
+      "subcategoria": "CONFIGURAÇÕES",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "enviado",
+        "enviados",
+        "envio",
+        "envios",
+        "logística",
+        "configuração",
+        "configurações"
+      ]
+    },
+    {
+      "id": 64,
+      "titulo": "Resumo",
+      "categoria": "CRM",
+      "subcategoria": "CRM",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["crm", "resumo"]
+    },
+    {
+      "id": 65,
+      "titulo": "Acessos",
+      "categoria": "CRM",
+      "subcategoria": "CRM",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["acesso", "acessos", "crm"]
+    },
+    {
+      "id": 66,
+      "titulo": "Campanhas",
+      "categoria": "CRM",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["campanha", "campanhas", "cadastro", "cadastros", "crm"]
+    },
+    {
+      "id": 67,
+      "titulo": "Resultados campanhas",
+      "categoria": "CRM",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "resultado",
+        "resultados",
+        "campanha",
+        "campanhas",
+        "crm",
+        "cadastro",
+        "cadastros"
+      ]
+    },
+    {
+      "id": 68,
+      "titulo": "Templates",
+      "categoria": "CRM",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["template", "templates", "crm", "cadastro", "cadastros"]
+    },
+    {
+      "id": 69,
+      "titulo": "Segmentações",
+      "categoria": "CRM",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["segmentação", "segmentações", "crm", "cadastro", "cadastros"]
+    },
+    {
+      "id": 70,
+      "titulo": "Desinscrições",
+      "categoria": "CRM",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["desinscrição", "desinscrições", "crm", "cadastro", "cadastros"]
+    },
+    {
+      "id": 71,
+      "titulo": "Eventos",
+      "categoria": "CRM",
+      "subcategoria": "AO VIVO",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["evento", "eventos", "crm", "ao vivo"]
+    },
+    {
+      "id": 72,
+      "titulo": "Conversas",
+      "categoria": "CRM",
+      "subcategoria": "CHAT",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["conversa", "conversas", "crm", "chat"]
+    },
+    {
+      "id": 73,
+      "titulo": "Tags de Ticket",
+      "categoria": "CRM",
+      "subcategoria": "CHAT",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["tag", "tags", "ticket", "tickets", "crm", "chat"]
+    },
+    {
+      "id": 74,
+      "titulo": "Templates de Ticket",
+      "categoria": "CRM",
+      "subcategoria": "CHAT",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["template", "templates", "ticket", "tickets", "crm", "chat"]
+    },
+    {
+      "id": 75,
+      "titulo": "Projetos",
+      "categoria": "Projetos",
+      "subcategoria": "PROJETOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "projeto",
+        "projetos",
+        "gestor",
+        "gestor de tarefa",
+        "gestor de tarefas"
+      ]
+    },
+    {
+      "id": 76,
+      "titulo": "Menus",
+      "categoria": "CMS",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["menu", "menus", "cadastro", "cadastros", "cms"]
+    },
+    {
+      "id": 77,
+      "titulo": "Banners",
+      "categoria": "CMS",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["banner", "banners", "cadastro", "cadastros", "cms"]
+    },
+    {
+      "id": 78,
+      "titulo": "Banners Coleções",
+      "categoria": "CMS",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "banner",
+        "banners",
+        "cadastro",
+        "cadastros",
+        "coleção",
+        "coleções",
+        "cms"
+      ]
+    },
+    {
+      "id": 79,
+      "titulo": "Redirecionamentos",
+      "categoria": "CMS",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "redirecionamento",
+        "redirecionamentos",
+        "cms",
+        "cadastro",
+        "cadastros"
+      ]
+    },
+    {
+      "id": 80,
+      "titulo": "Cursos",
+      "categoria": "CMS",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["curso", "cursos", "cadastro", "cadastros", "cms"]
+    },
+    {
+      "id": 81,
+      "titulo": "Depoimentos",
+      "categoria": "CMS",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["depoimento", "depoimentos", "cadastro", "cadastros", "cms"]
+    },
+    {
+      "id": 82,
+      "titulo": "Páginas de Coleções",
+      "categoria": "CMS",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "página",
+        "páginas",
+        "coleção",
+        "coleções",
+        "cadastro",
+        "cadastros",
+        "cms"
+      ]
+    },
+    {
+      "id": 83,
+      "titulo": "Componentes da Home",
+      "categoria": "CMS",
+      "subcategoria": "CADASTROS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["componentes", "home", "cadastro", "cadastros", "cms"]
+    },
+    {
+      "id": 84,
+      "titulo": "Categorias",
+      "categoria": "CMS",
+      "subcategoria": "BLOG",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["blog", "categoria", "categorias", "cms"]
+    },
+    {
+      "id": 85,
+      "titulo": "Posts",
+      "categoria": "CMS",
+      "subcategoria": "BLOG",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["post", "posts", "blog", "cms"]
+    },
+    {
+      "id": 86,
+      "titulo": "Listagem",
+      "categoria": "CMS",
+      "subcategoria": "CUPONS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["lista", "listagem", "cupom", "cupons", "cms"]
+    },
+    {
+      "id": 87,
+      "titulo": "Listagem",
+      "categoria": "CMS",
+      "subcategoria": "LIVECOMMERCE",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["lista", "listagem", "cms", "live", "commerce"]
+    },
+    {
+      "id": 88,
+      "titulo": "Listagem",
+      "categoria": "CMS",
+      "subcategoria": "VITRINES",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["lista", "listagem", "vitrine", "vitrines", "cms"]
+    },
+    {
+      "id": 89,
+      "titulo": "Posts",
+      "categoria": "CMS",
+      "subcategoria": "SOCIAL",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": ["post", "posts", "social", "cms"]
+    },
+    {
+      "id": 90,
+      "titulo": "Listagem",
+      "categoria": "Cadastros",
+      "subcategoria": "USUÁRIOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "lista",
+        "listagem",
+        "usuário",
+        "usuários",
+        "cadastro",
+        "cadastros"
+      ]
+    },
+    {
+      "id": 91,
+      "titulo": "Grupos",
+      "categoria": "Cadastros",
+      "subcategoria": "USUÁRIOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "grupo",
+        "grupos",
+        "usuário",
+        "usuários",
+        "cadastro",
+        "cadastros"
+      ]
+    },
+    {
+      "id": 92,
+      "titulo": "Operações",
+      "categoria": "Configurações",
+      "subcategoria": "PEDIDOS",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "operação",
+        "operações",
+        "configuração",
+        "configurações",
+        "pedido",
+        "pedidos"
+      ]
+    },
+    {
+      "id": 93,
+      "titulo": "Listagem",
+      "categoria": "Configurações",
+      "subcategoria": "SETORES",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "lista",
+        "listagem",
+        "configuração",
+        "configurações",
+        "setor",
+        "setores"
+      ]
+    },
+    {
+      "id": 94,
+      "titulo": "Métodos",
+      "categoria": "Configurações",
+      "subcategoria": "PAGAMENTO",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "método",
+        "métodos",
+        "configuração",
+        "configurações",
+        "pagamento",
+        "pagamentos"
+      ]
+    },
+    {
+      "id": 95,
+      "titulo": "Métodos",
+      "categoria": "Configurações",
+      "subcategoria": "ENTREGA",
+      "secao": "Plataforma",
+      "link": "",
+      "tags": [
+        "método",
+        "métodos",
+        "entrega",
+        "entregas",
+        "configuração",
+        "configurações"
+      ]
     }
   ]
 }
