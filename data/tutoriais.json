@@ -113,7 +113,7 @@
       "subcategoria": "CLIENTES",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1sk-6c4a_zNILuOm04QWQM2NMTvOy8aEkFoDzcds9iP8/edit?tab=t.0",
-      "tags": ["perfil", "cliente", "clientes", "pedido", "pedidos"]
+      "tags": ["perfil", "clientes", "pedidos"]
     },
     {
       "id": 13,
@@ -122,7 +122,7 @@
       "subcategoria": "CLIENTES",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1VV-tpxThe5psDJUPy69vrJcCtPO5lJ_m7-SYlJHHyQU/edit?tab=t.0",
-      "tags": ["lista", "listagem", "cliente", "clientes"]
+      "tags": ["listagem", "clientes"]
     },
     {
       "id": 14,
@@ -131,7 +131,7 @@
       "subcategoria": "CLIENTES",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1tb38CFF6maC6TwcK5bigMpXlCcOrMXJiMXl8uCWBQ5w/edit?tab=t.0",
-      "tags": ["afiliado", "afiliados", "cliente", "clientes"]
+      "tags": ["afiliados", "clientes"]
     },
     {
       "id": 15,
@@ -140,14 +140,7 @@
       "subcategoria": "CLIENTES",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "desejo",
-        "desejos",
-        "favorito",
-        "favoritos",
-        "cliente",
-        "clientes"
-      ]
+      "tags": ["desejos", "favoritos", "clientes"]
     },
     {
       "id": 16,
@@ -156,7 +149,7 @@
       "subcategoria": "FATURAS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["fatura", "faturas", "lista", "listagem"]
+      "tags": ["faturas", "listagem"]
     },
     {
       "id": 17,
@@ -165,7 +158,7 @@
       "subcategoria": "PARCERIAS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1PmJ93clUzFDJftJwVrjosuCJbMr5eC_0mKMpSnRgKA0/edit?tab=t.0",
-      "tags": ["aprovação", "aprovações", "parceria", "parcerias"]
+      "tags": ["aprovação", "aprovações", "parcerias"]
     },
     {
       "id": 18,
@@ -174,7 +167,7 @@
       "subcategoria": "CARRINHO",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1cVOGqBxbwhU7ZH4TzzQHtcmg1KBvP-twT3iP6-Eop-s/edit?tab=t.0",
-      "tags": ["abandono", "abandonado", "carrinho", "carrinhos"]
+      "tags": ["abandono", "abandonado", "carrinhos"]
     },
     {
       "id": 19,
@@ -192,13 +185,7 @@
       "subcategoria": "ANTIFRAUDE",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "estorno",
-        "estornado",
-        "estornados",
-        "antifraude",
-        "anti-fraude"
-      ]
+      "tags": ["estorno", "estornados", "antifraude", "anti-fraude"]
     },
     {
       "id": 21,
@@ -207,7 +194,7 @@
       "subcategoria": "PRODUTOS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1IWsfznmz44_KHkY5NwETNI0IcRf0CnCjyjER_8G1sA8/edit?tab=t.0",
-      "tags": ["lista", "listagem", "produto", "produtos"]
+      "tags": ["listagem", "produtos"]
     },
     {
       "id": 22,
@@ -216,7 +203,7 @@
       "subcategoria": "PRODUTOS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["análise", "produto", "produtos"]
+      "tags": ["análise", "produtos"]
     },
     {
       "id": 23,
@@ -225,16 +212,7 @@
       "subcategoria": "PRODUTOS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1iYwFJd-MVMn4IQZXH8Rw9fli4tEPOWztxo6R27VcOq4/edit?tab=t.0",
-      "tags": [
-        "desejo",
-        "desejos",
-        "favorito",
-        "favoritos",
-        "cliente",
-        "clientes",
-        "lista",
-        "listagem"
-      ]
+      "tags": ["desejos", "favoritos", "clientes", "listagem"]
     },
     {
       "id": 24,
@@ -252,7 +230,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1iM_47gPTl6_Pzh8Ljnrpcr74rsVGfUm9tmXTAdL42LI/edit?tab=t.0",
-      "tags": ["cor", "cores", "cadastro", "cadastrar"]
+      "tags": ["cores", "cadastros", "cadastrar"]
     },
     {
       "id": 26,
@@ -261,7 +239,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1woVTdMLIz4xUar5NgWdUJWFkZCxUpVq6FNiIGOTuLJ8/edit?tab=t.0",
-      "tags": ["modelos", "modelos", "cadastro", "cadastrar"]
+      "tags": ["modelos", "cadastros", "cadastrar"]
     },
     {
       "id": 27,
@@ -270,7 +248,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1MQn9pVmtpuNTAH7nuXLjtr8NYU0BiPRfOTidn37x4hE/edit?tab=t.0",
-      "tags": ["medida", "medidas", "cadastro", "cadastrar"]
+      "tags": ["medidas", "cadastros", "cadastrar"]
     },
     {
       "id": 28,
@@ -279,7 +257,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1CnqAEucBIobfk9KzcW7IP2l8GQ45D_t86mMhglCqLMY/edit?tab=t.0",
-      "tags": ["período", "períodos", "cadastro", "cadastrar"]
+      "tags": ["períodos", "cadastros", "cadastrar"]
     },
     {
       "id": 29,
@@ -288,7 +266,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1Zbpmt5MoWlzKWM6mIkvNzxOZi5CpbdgY1QY1T4YW3hg/edit?tab=t.0",
-      "tags": ["incompleto", "incompletos", "cadastro", "cadastros"]
+      "tags": ["incompletos", "cadastros"]
     },
     {
       "id": 30,
@@ -297,7 +275,7 @@
       "subcategoria": "PREÇOS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1NVRatWI1L4kBHdTsr2VsG81gMDS77YBCnjCvHklYRx8/edit?tab=t.0",
-      "tags": ["lista", "listagem", "preço", "preços"]
+      "tags": ["listagem", "preços"]
     },
     {
       "id": 31,
@@ -315,7 +293,7 @@
       "subcategoria": "ESTOQUE",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1ZnwX8f7tc4OmDrpTAvlKfzEWmpiACqlhTEoOz7Jk5M0/edit?tab=t.0",
-      "tags": ["avise", "avise-me"]
+      "tags": ["avise-me"]
     },
     {
       "id": 33,
@@ -324,7 +302,7 @@
       "subcategoria": "ESTOQUE",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1RheIzWgCgU9Iwh2icTEnsVBh1SpS9glaCPDZQZuhmoE/edit?tab=t.0",
-      "tags": ["enviados", "avise", "avise-me"]
+      "tags": ["enviados", "avise-me"]
     },
     {
       "id": 34,
@@ -333,7 +311,7 @@
       "subcategoria": "COMENTÁRIOS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1291wnLQ5L9jqX8Tg5NaCNtlE0XmvmxNfFfbZNI9__KM/edit?tab=t.0",
-      "tags": ["lista", "listagem", "comentário", "comentários"]
+      "tags": ["listagem", "comentários"]
     },
     {
       "id": 35,
@@ -342,7 +320,7 @@
       "subcategoria": "KITS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1tIxxy3rmW0CO8MfO3hSkNz25rAmpWeV9FBuT9A2MIJU/edit?tab=t.0",
-      "tags": ["kit", "kits", "dashboard"]
+      "tags": ["kits", "dashboard"]
     },
     {
       "id": 36,
@@ -351,7 +329,7 @@
       "subcategoria": "PROMOÇÕES",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1Udx-lwPssMtj0-kdchmM--ShccTkGAAy_9UPyHAf5zw/edit?tab=t.0",
-      "tags": ["lista", "listagem", "promoção", "promoções"]
+      "tags": ["listagem", "promoção", "promoções"]
     },
     {
       "id": 37,
@@ -360,15 +338,7 @@
       "subcategoria": "GIFT CARDS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1mH9YSc0N1ROKb38fuEVxy3DSBU1YD4JV6g-4j7w2mM4/edit?tab=t.0",
-      "tags": [
-        "lista",
-        "listagem",
-        "gift",
-        "gift card",
-        "gift cards",
-        "promoção",
-        "promoções"
-      ]
+      "tags": ["listagem", "gift cards", "promoção", "promoções"]
     },
     {
       "id": 38,
@@ -377,14 +347,7 @@
       "subcategoria": "GIFT CARDS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1tcBUtv5mlAyWQZQJntcFHP63B4v0RQji-FBTrlBAwbY/edit?tab=t.0",
-      "tags": [
-        "acompanhamento",
-        "gift",
-        "gift card",
-        "gift cards",
-        "promoção",
-        "promoções"
-      ]
+      "tags": ["acompanhamento", "gift cards", "promoção", "promoções"]
     },
     {
       "id": 39,
@@ -393,7 +356,7 @@
       "subcategoria": "INDIQUE E GANHE",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1EU6Nxir9k5KT4qFMW6ucwSQuNYbLpNMu1Qv3Oj4XrkY/edit?tab=t.0",
-      "tags": ["indique", "indique e ganhe", "promoção", "promoções"]
+      "tags": ["indique e ganhe", "promoção", "promoções"]
     },
     {
       "id": 40,
@@ -402,7 +365,7 @@
       "subcategoria": "AFILIADOS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1tb38CFF6maC6TwcK5bigMpXlCcOrMXJiMXl8uCWBQ5w/edit?tab=t.0",
-      "tags": ["lista", "listagem", "afiliado", "afiliados"]
+      "tags": ["listagem", "afiliados"]
     },
     {
       "id": 41,
@@ -411,7 +374,7 @@
       "subcategoria": "AFILIADOS",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1fKL61IO0c-eLY_FswvwbpO5B8YSISYbqeBCrzWFJxHg/edit?tab=t.0",
-      "tags": ["configuração", "configurações", "afiliado", "afiliados"]
+      "tags": ["configuração", "configurações", "afiliados"]
     },
     {
       "id": 42,
@@ -429,7 +392,7 @@
       "subcategoria": "CASHBACK",
       "secao": "Plataforma",
       "link": "https://docs.google.com/document/d/1jc4auHGzKgbstHEO7ZDp8SaY5fmkXq2u6jdUqh1tV3c/edit?tab=t.0",
-      "tags": ["reativação", "reativar", "cashback", "cashbacks"]
+      "tags": ["reativação", "reativar", "cashbacks"]
     },
     {
       "id": 44,
@@ -438,7 +401,7 @@
       "subcategoria": "CHAT",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["chat", "conversa", "conversas", "atendimento"]
+      "tags": ["chat", "conversas", "atendimento"]
     },
     {
       "id": 45,
@@ -447,7 +410,7 @@
       "subcategoria": "CHAT",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["chat", "métrica", "métricas", "atendimento"]
+      "tags": ["chat", "métricas", "atendimento"]
     },
     {
       "id": 46,
@@ -456,7 +419,7 @@
       "subcategoria": "PEDIDOS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["pedido", "pedidos", "lista", "listagem", "atendimento"]
+      "tags": ["pedidos", "listagem", "atendimento"]
     },
     {
       "id": 47,
@@ -465,7 +428,7 @@
       "subcategoria": "ERROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["erro", "erros", "pendente", "pendentes", "atendimento"]
+      "tags": ["erros", "pendentes", "atendimento"]
     },
     {
       "id": 48,
@@ -474,7 +437,7 @@
       "subcategoria": "ERROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["despacho", "despachos", "erro", "erros", "atendimento"]
+      "tags": ["despachos", "erros", "atendimento"]
     },
     {
       "id": 49,
@@ -483,7 +446,7 @@
       "subcategoria": "ERROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["incompleto", "incompletos", "erro", "erros", "atendimento"]
+      "tags": ["incompletos", "erros", "atendimento"]
     },
     {
       "id": 50,
@@ -492,7 +455,7 @@
       "subcategoria": "ENVIOS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["enviado", "enviados", "envio", "envios", "atendimento"]
+      "tags": ["enviados", "envios", "atendimento"]
     },
     {
       "id": 51,
@@ -501,14 +464,7 @@
       "subcategoria": "ENVIOS",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "reverso",
-        "enviado",
-        "enviados",
-        "envio",
-        "envios",
-        "atendimento"
-      ]
+      "tags": ["reverso", "enviados", "envios", "atendimento"]
     },
     {
       "id": 52,
@@ -517,7 +473,7 @@
       "subcategoria": "DEVOLUÇÕES",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["lista", "listagem", "devolução", "devoluções", "atendimento"]
+      "tags": ["listagem", "devolução", "devoluções", "atendimento"]
     },
     {
       "id": 53,
@@ -526,13 +482,7 @@
       "subcategoria": "CANCELAMENTOS",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "lista",
-        "listagem",
-        "cancelamento",
-        "cancelamentos",
-        "atendimento"
-      ]
+      "tags": ["listagem", "cancelamentos", "atendimento"]
     },
     {
       "id": 54,
@@ -541,7 +491,7 @@
       "subcategoria": "CLIENTES",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["lista", "listagem", "cliente", "clientes", "atendimento"]
+      "tags": ["listagem", "clientes", "atendimento"]
     },
     {
       "id": 55,
@@ -549,7 +499,7 @@
       "categoria": "Logística",
       "subcategoria": "LOGÍSTICA",
       "secao": "Plataforma",
-      "link": "",
+      "link": "https://docs.google.com/document/d/1cgrbriAQ9iPY-MoglmPImZtspLpiGV0KEHwROj_Tlw8/edit?tab=t.0",
       "tags": ["logística", "resumo"]
     },
     {
@@ -558,7 +508,7 @@
       "categoria": "Logística",
       "subcategoria": "DASHBOARDS",
       "secao": "Plataforma",
-      "link": "",
+      "link": "https://docs.google.com/document/d/12ZSahsGe82EhSxTTqzxazx3M895uPQIWLmInKh2VnII/edit?tab=t.0",
       "tags": ["expedição", "dashboard", "logística"]
     },
     {
@@ -567,15 +517,8 @@
       "categoria": "Logística",
       "subcategoria": "DASHBOARDS",
       "secao": "Plataforma",
-      "link": "",
-      "tags": [
-        "enviado",
-        "enviados",
-        "envio",
-        "envios",
-        "dashboard",
-        "logística"
-      ]
+      "link": "https://docs.google.com/document/d/1QqqHj_3K9HR2mfMQ1LytuaCScBIXiAkHfWNW8OIDJNg/edit?tab=t.0",
+      "tags": ["enviados", "envios", "dashboard", "logística"]
     },
     {
       "id": 58,
@@ -583,7 +526,7 @@
       "categoria": "Logística",
       "subcategoria": "DASHBOARDS",
       "secao": "Plataforma",
-      "link": "",
+      "link": "https://docs.google.com/document/d/1esBpOcnLGK-UbhwBV0Vxrt1xowjOFCsKtMH8-GLVA-M/edit?tab=t.0",
       "tags": ["reverso", "logística", "dashboard"]
     },
     {
@@ -592,7 +535,7 @@
       "categoria": "Logística",
       "subcategoria": "CONCILIAÇÃO",
       "secao": "Plataforma",
-      "link": "",
+      "link": "https://docs.google.com/document/d/1j6CWO4ZlGhSgc1BitJQfFLZw6uRmPhlJ-tJVRIqjfLI/edit?tab=t.0",
       "tags": ["conciliação", "conciliações", "logística"]
     },
     {
@@ -601,15 +544,8 @@
       "categoria": "Logística",
       "subcategoria": "RASTREAMENTO",
       "secao": "Plataforma",
-      "link": "",
-      "tags": [
-        "rastrear",
-        "rastreio",
-        "rastreamento",
-        "lista",
-        "listagem",
-        "logística"
-      ]
+      "link": "https://docs.google.com/document/d/1iC7C_hspcp25PArCqQDcYWLpUDkEGmhKvTLrTMfG4Yw/edit?tab=t.0",
+      "tags": ["rastrear", "rastreio", "rastreamento", "listagem", "logística"]
     },
     {
       "id": 61,
@@ -617,7 +553,7 @@
       "categoria": "Logística",
       "subcategoria": "SIMULAÇÃO",
       "secao": "Plataforma",
-      "link": "",
+      "link": "https://docs.google.com/document/d/12-sLDAUhK1Za3nOu3dAhVKs-htfa5e8PCOkB3xxgBvA/edit?tab=t.0",
       "tags": ["simulação", "simulações", "simular", "clientes", "logística"]
     },
     {
@@ -626,7 +562,7 @@
       "categoria": "Logística",
       "subcategoria": "SIMULAÇÃO",
       "secao": "Plataforma",
-      "link": "",
+      "link": "https://docs.google.com/document/d/1W56C3A1G9r3nvZGDMKFBViVcXVDWOwGTW8_F6SICmvE/edit?tab=t.0",
       "tags": ["lote", "simulação", "simulações", "simular", "logística"]
     },
     {
@@ -635,13 +571,12 @@
       "categoria": "Logística",
       "subcategoria": "CONFIGURAÇÕES",
       "secao": "Plataforma",
-      "link": "",
+      "link": "https://docs.google.com/document/d/1pSB4JpR_GBpN4e9dFciD6k0yjNyTpgtcFO0vKZy720c/edit?tab=t.0",
       "tags": [
-        "enviado",
         "enviados",
-        "envio",
         "envios",
         "logística",
+        "entregas",
         "configuração",
         "configurações"
       ]
@@ -662,7 +597,7 @@
       "subcategoria": "CRM",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["acesso", "acessos", "crm"]
+      "tags": ["acessos", "crm"]
     },
     {
       "id": 66,
@@ -671,7 +606,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["campanha", "campanhas", "cadastro", "cadastros", "crm"]
+      "tags": ["campanhas", "cadastros", "crm"]
     },
     {
       "id": 67,
@@ -680,15 +615,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "resultado",
-        "resultados",
-        "campanha",
-        "campanhas",
-        "crm",
-        "cadastro",
-        "cadastros"
-      ]
+      "tags": ["resultados", "campanhas", "crm", "cadastros"]
     },
     {
       "id": 68,
@@ -697,7 +624,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["template", "templates", "crm", "cadastro", "cadastros"]
+      "tags": ["templates", "crm", "cadastros"]
     },
     {
       "id": 69,
@@ -706,7 +633,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["segmentação", "segmentações", "crm", "cadastro", "cadastros"]
+      "tags": ["segmentação", "segmentações", "crm", "cadastros"]
     },
     {
       "id": 70,
@@ -715,7 +642,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["desinscrição", "desinscrições", "crm", "cadastro", "cadastros"]
+      "tags": ["desinscrição", "desinscrições", "crm", "cadastros"]
     },
     {
       "id": 71,
@@ -724,7 +651,7 @@
       "subcategoria": "AO VIVO",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["evento", "eventos", "crm", "ao vivo"]
+      "tags": ["eventos", "crm", "ao vivo"]
     },
     {
       "id": 72,
@@ -733,7 +660,7 @@
       "subcategoria": "CHAT",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["conversa", "conversas", "crm", "chat"]
+      "tags": ["conversas", "crm", "chat"]
     },
     {
       "id": 73,
@@ -742,7 +669,7 @@
       "subcategoria": "CHAT",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["tag", "tags", "ticket", "tickets", "crm", "chat"]
+      "tags": ["tags", "tickets", "crm", "chat"]
     },
     {
       "id": 74,
@@ -751,7 +678,7 @@
       "subcategoria": "CHAT",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["template", "templates", "ticket", "tickets", "crm", "chat"]
+      "tags": ["templates", "tickets", "crm", "chat"]
     },
     {
       "id": 75,
@@ -760,13 +687,7 @@
       "subcategoria": "PROJETOS",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "projeto",
-        "projetos",
-        "gestor",
-        "gestor de tarefa",
-        "gestor de tarefas"
-      ]
+      "tags": ["projetos", "gestor de tarefas"]
     },
     {
       "id": 76,
@@ -775,7 +696,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["menu", "menus", "cadastro", "cadastros", "cms"]
+      "tags": ["menus", "cadastros", "cms"]
     },
     {
       "id": 77,
@@ -784,7 +705,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["banner", "banners", "cadastro", "cadastros", "cms"]
+      "tags": ["banners", "cadastros", "cms"]
     },
     {
       "id": 78,
@@ -793,15 +714,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "banner",
-        "banners",
-        "cadastro",
-        "cadastros",
-        "coleção",
-        "coleções",
-        "cms"
-      ]
+      "tags": ["banners", "cadastros", "coleção", "coleções", "cms"]
     },
     {
       "id": 79,
@@ -810,13 +723,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "redirecionamento",
-        "redirecionamentos",
-        "cms",
-        "cadastro",
-        "cadastros"
-      ]
+      "tags": ["redirecionamentos", "cms", "cadastros"]
     },
     {
       "id": 80,
@@ -825,7 +732,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["curso", "cursos", "cadastro", "cadastros", "cms"]
+      "tags": ["cursos", "cadastros", "cms"]
     },
     {
       "id": 81,
@@ -834,7 +741,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["depoimento", "depoimentos", "cadastro", "cadastros", "cms"]
+      "tags": ["depoimentos", "cadastros", "cms"]
     },
     {
       "id": 82,
@@ -843,15 +750,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "página",
-        "páginas",
-        "coleção",
-        "coleções",
-        "cadastro",
-        "cadastros",
-        "cms"
-      ]
+      "tags": ["páginas", "coleção", "coleções", "cadastros", "cms"]
     },
     {
       "id": 83,
@@ -860,7 +759,7 @@
       "subcategoria": "CADASTROS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["componentes", "home", "cadastro", "cadastros", "cms"]
+      "tags": ["componentes", "home", "cadastros", "cms"]
     },
     {
       "id": 84,
@@ -869,7 +768,7 @@
       "subcategoria": "BLOG",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["blog", "categoria", "categorias", "cms"]
+      "tags": ["blog", "categorias", "cms"]
     },
     {
       "id": 85,
@@ -878,7 +777,7 @@
       "subcategoria": "BLOG",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["post", "posts", "blog", "cms"]
+      "tags": ["posts", "blog", "cms"]
     },
     {
       "id": 86,
@@ -887,7 +786,7 @@
       "subcategoria": "CUPONS",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["lista", "listagem", "cupom", "cupons", "cms"]
+      "tags": ["listagem", "cupom", "cupons", "cms"]
     },
     {
       "id": 87,
@@ -896,7 +795,7 @@
       "subcategoria": "LIVECOMMERCE",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["lista", "listagem", "cms", "live", "commerce"]
+      "tags": ["listagem", "cms", "live", "commerce"]
     },
     {
       "id": 88,
@@ -905,7 +804,7 @@
       "subcategoria": "VITRINES",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["lista", "listagem", "vitrine", "vitrines", "cms"]
+      "tags": ["listagem", "vitrines", "cms"]
     },
     {
       "id": 89,
@@ -914,7 +813,7 @@
       "subcategoria": "SOCIAL",
       "secao": "Plataforma",
       "link": "",
-      "tags": ["post", "posts", "social", "cms"]
+      "tags": ["posts", "social", "cms"]
     },
     {
       "id": 90,
@@ -923,14 +822,7 @@
       "subcategoria": "USUÁRIOS",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "lista",
-        "listagem",
-        "usuário",
-        "usuários",
-        "cadastro",
-        "cadastros"
-      ]
+      "tags": ["listagem", "usuários", "cadastros"]
     },
     {
       "id": 91,
@@ -939,14 +831,7 @@
       "subcategoria": "USUÁRIOS",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "grupo",
-        "grupos",
-        "usuário",
-        "usuários",
-        "cadastro",
-        "cadastros"
-      ]
+      "tags": ["grupos", "usuários", "cadastros"]
     },
     {
       "id": 92,
@@ -960,7 +845,6 @@
         "operações",
         "configuração",
         "configurações",
-        "pedido",
         "pedidos"
       ]
     },
@@ -971,14 +855,7 @@
       "subcategoria": "SETORES",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "lista",
-        "listagem",
-        "configuração",
-        "configurações",
-        "setor",
-        "setores"
-      ]
+      "tags": ["listagem", "configuração", "configurações", "setores"]
     },
     {
       "id": 94,
@@ -987,14 +864,7 @@
       "subcategoria": "PAGAMENTO",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "método",
-        "métodos",
-        "configuração",
-        "configurações",
-        "pagamento",
-        "pagamentos"
-      ]
+      "tags": ["métodos", "configuração", "configurações", "pagamentos"]
     },
     {
       "id": 95,
@@ -1003,14 +873,7 @@
       "subcategoria": "ENTREGA",
       "secao": "Plataforma",
       "link": "",
-      "tags": [
-        "método",
-        "métodos",
-        "entrega",
-        "entregas",
-        "configuração",
-        "configurações"
-      ]
+      "tags": ["métodos", "entregas", "configuração", "configurações"]
     }
   ]
 }
