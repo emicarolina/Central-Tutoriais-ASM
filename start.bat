@@ -10,39 +10,63 @@ echo  ==========================================
 echo.
 
 :: Verifica se o Python está instalado
+echo  Verificando Python...
 python --version >nul 2>&1
-if %errorlevel% neq 0 (
+
+if errorlevel 1 (
+  echo.
   echo  ERRO: Python não encontrado.
   echo.
   pause
   exit /b
 )
 
-:: Cria o ambiente virtual se ainda não existir
+:: Cria o ambiente virtual se não existir
 if not exist "venv\" (
+  echo.
   echo  Configurando o sistema pela primeira vez...
   echo  Isso pode levar alguns minutos. Aguarde.
   echo.
+
   python -m venv venv
-  call venv\Scripts\activate.bat
-  pip install -r requirements.txt --quiet
-  echo  Configuração concluída!
-  echo.
-) else (
-  call venv\Scripts\activate.bat
+
+  if errorlevel 1 (
+    echo.
+    echo  ERRO: Não foi possível criar o ambiente virtual.
+    echo.
+    pause
+    exit /b
+  )
 )
 
-:: Inicia o servidor Flask em background
-echo  Iniciando servidor...
-start /B python app.py
-
-:: Aguarda o servidor subir e abre o navegador
-timeout /t 3 /nobreak >nul
-start http://localhost:5000
-
-echo  Sistema iniciado! Acesse http://localhost:5000
+:: Instala/verifica dependências
 echo.
-echo  Mantenha esta janela aberta enquanto estiver usando.
+echo  Instalando/verificando dependências...
+
+venv\Scripts\python.exe -m pip install --upgrade pip >nul
+venv\Scripts\python.exe -m pip install -r requirements.txt
+
+if errorlevel 1 (
+  echo.
+  echo  ERRO: Falha ao instalar as dependências.
+  echo  Verifique o arquivo requirements.txt
+  echo.
+  pause
+  exit /b
+)
+
+echo.
+echo  Iniciando servidor...
+echo.
+
+:: Abre o navegador
+start "" cmd /c "timeout /t 2 >nul && start http://localhost:5000"
+
+echo  Sistema iniciado com sucesso!
+echo  Acesse: http://localhost:5000
+echo.
 echo  Para encerrar o sistema, feche esta janela.
 echo.
-pause
+
+:: Inicia o Flask nesta mesma janela
+venv\Scripts\python.exe app.py
