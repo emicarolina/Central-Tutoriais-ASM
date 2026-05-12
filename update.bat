@@ -80,8 +80,8 @@ if not exist "venv\" (
 echo.
 echo  Atualizando dependências...
 
-venv\Scripts\python.exe -m pip install --upgrade pip >nul
-venv\Scripts\python.exe -m pip install -r requirements.txt
+venv\Scripts\python.exe -m pip install -q --upgrade pip
+venv\Scripts\python.exe -m pip install -q -r requirements.txt
 
 if errorlevel 1 (
   echo.
