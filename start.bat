@@ -60,7 +60,7 @@ echo  Iniciando servidor...
 echo.
 
 :: Abre o navegador
-start "" cmd /c "timeout /t 2 >nul && start http://localhost:5000"
+start http://localhost:5000
 
 echo  Sistema iniciado com sucesso!
 echo  Acesse: http://localhost:5000
