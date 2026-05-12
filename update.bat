@@ -50,7 +50,7 @@ if not exist ".git\" (
 echo.
 echo  Baixando atualizações...
 
-git pull
+git pull >nul 2>&1
 
 if errorlevel 1 (
   echo.
