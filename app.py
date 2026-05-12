@@ -1,8 +1,13 @@
 from flask import Flask, render_template, jsonify
 import json
 import os
+import logging
 
 app = Flask(__name__)
+
+# Remove logs do Flask/Werkzeug
+log = logging.getLogger('werkzeug')
+log.setLevel(logging.ERROR)
 
 # Caminho até o arquivo JSON com os tutoriais
 DATA_PATH = os.path.join(os.path.dirname(__file__), 'data', 'tutoriais.json')
@@ -24,4 +29,4 @@ def api_tutoriais():
     return jsonify(dados)
 
 if __name__ == '__main__':
-    app.run(host='127.0.0.1', port=5000, debug=True)
+    app.run(host='127.0.0.1', port=5000)
